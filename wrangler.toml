@@ -1,0 +1,6 @@
+name = "telegram-bot-proxy"
+main = "telegram-bot-proxy.js"
+compatibility_date = "2024-03-20"
+
+[build]
+command = "" 
